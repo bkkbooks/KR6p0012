@@ -1,0 +1,175 @@
+canonical_identifier: bkk:krp/KR6p0012/v1
+canonical_location: https://kanripo.org/bkk/KR6p0012/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 觀無量壽經直指疏
+  identifiers:
+    alt_id:
+    - X22n0413
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X22/X22n0413.xml
+    old_id: X22n0413
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0012_000.yaml, hash: 'sha256:2d32509a8455a95accfe2565f94fb60a54515979e57cf26efaaafd704eb0f59e'}
+  - {seq: 1, filename: KR6p0012_001.yaml, hash: 'sha256:916e5d1bd3b378bd21a573476e9e7871465433af6454884fb6a1b9a6815678cf'}
+  - {seq: 2, filename: KR6p0012_002.yaml, hash: 'sha256:fb8a03eb480142d9965ff34483bfe2805fb243391f3c889c1498bd6c21db23f3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0012_000.markers.yaml, hash: 'sha256:269d6b6d922eba97c2cdf845d9b0bb7118b1a4074e7892754553497b95ac8a64'}
+  - {seq: 1, role: markers, filename: assets/KR6p0012_001.markers.yaml, hash: 'sha256:c3ab890065c4fb3cd5eec1598571304dbe35bb59568cb7d87dcf423f361e67ae'}
+  - {seq: 2, role: markers, filename: assets/KR6p0012_002.markers.yaml, hash: 'sha256:eea47b2331caab85fd89cb2c06cf60f3a8e6b3045484256ea4c40196376c140e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0012_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 413-A 觀經直指疏序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0012_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 15920
+  label: 佛說觀無量壽佛經直指疏卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0012_X_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0012_X_001-mulu-2
+    span:
+    - body
+    - 145
+    - 145
+  label: 初教起因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0012_X_001-mulu-3
+    span:
+    - body
+    - 329
+    - 329
+  label: 二藏乘分攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0012_X_001-mulu-4
+    span:
+    - body
+    - 537
+    - 537
+  label: 三辨定時會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0012_X_001-mulu-5
+    span:
+    - body
+    - 784
+    - 784
+  label: 四教義分齊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0012_X_001-mulu-6
+    span:
+    - body
+    - 1620
+    - 1620
+  label: 五所被機宜
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0012_X_001-mulu-7
+    span:
+    - body
+    - 2186
+    - 2186
+  label: 六能詮體性
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0012_X_001-mulu-8
+    span:
+    - body
+    - 2401
+    - 2401
+  label: 七宗趣通局
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0012_X_001-mulu-9
+    span:
+    - body
+    - 2672
+    - 2672
+  label: 八翻譯傳授
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0012_X_001-mulu-10
+    span:
+    - body
+    - 3001
+    - 3001
+  label: 九總釋經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0012_X_001-mulu-11
+    span:
+    - body
+    - 4664
+    - 4664
+  label: 十別解文義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0012_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 13796
+  label: 佛說觀無量壽佛經直指疏卷下
+  type: juan
+  level: 1
+hash: sha256:d2de086696f2ae03fac1a7a36338250bf71ecea6dc23a70f89a755f9cb997352
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
