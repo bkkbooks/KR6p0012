@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0012_000.yaml, hash: 'sha256:fa48d3d4a96ceffd15903850d0ad9ac0da39e6911329496b4232d7aec8082a51'}
+  - {seq: 0, filename: KR6p0012_000.yaml, hash: 'sha256:5fc500a60845c81101925f7493da3bb46d96aa41054f321e2dc984a0d35745f6'}
   - {seq: 1, filename: KR6p0012_001.yaml, hash: 'sha256:653dd91495241690570147c090d57650043d77e3aa0cde26b12b3cdff55d612f'}
   - {seq: 2, filename: KR6p0012_002.yaml, hash: 'sha256:aa9154a7d0f4dc897b6ddddaf4578d279eeeb933f058d223c1a1a107cd782006'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0012_000.markers.yaml, hash: 'sha256:cd1cef039d9ca6f1c92bafb1e6e4d9c16be50ad2acffe1dcbb5adbd967067227'}
+  - {seq: 0, role: markers, filename: assets/KR6p0012_000.markers.yaml, hash: 'sha256:6320800914ad3578b45a5643997d563b9de20791beb0f61bb14c1e13da1f6824'}
   - {seq: 1, role: markers, filename: assets/KR6p0012_001.markers.yaml, hash: 'sha256:4669be37a6719f0829212456bbabc1a84c04e74bd9e714d6459e9e33adc980dc'}
   - {seq: 2, role: markers, filename: assets/KR6p0012_002.markers.yaml, hash: 'sha256:d7a9682dae515d8f364b2fb992ca1f208512bac043c52eb8cc82ecdca7b88bed'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0012_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 413-A 觀經直指疏序
@@ -169,7 +169,7 @@ table_of_contents:
   label: 佛說觀無量壽佛經直指疏卷下
   type: juan
   level: 1
-hash: sha256:ddae80a47865a933886b5431fa4c54c515a9575548ef3e58120bba78596e7f1e
+hash: sha256:b26e3968c7352da1b4dec8a1193273efd77ecd6f0f0aaac8ceaab1e4b0e3ada4
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
